@@ -8,7 +8,7 @@ public class NumberToWord {
         System.out.println("Nhap vao mot so: ");
         int number = scanner.nextInt();
         String[] ones = {"one", "two", "three", "four", "five", "six", "seven"," eight", "nine", "ten"};
-        String[] tens
+        //String[] tens
 
     }
 
