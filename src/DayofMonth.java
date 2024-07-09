@@ -1,5 +1,3 @@
-package ss1.demo;
-
 import java.util.Scanner;
 
 public class DayofMonth {
